@@ -1,0 +1,27 @@
+.bg-primary {
+  background-color: #ad97dc !important;
+}
+
+.bg-secondary {
+  background-color: #32164f !important;
+}
+
+h2 {
+  color: #32164f;
+}
+
+.text-secondary {
+  /*color: var(--bs-purple) !important;*/
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #32164f;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #32164f;
+}
+
